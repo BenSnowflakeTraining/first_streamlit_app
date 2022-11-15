@@ -1,2 +1,1 @@
-
- this is some text
+print("hello")
